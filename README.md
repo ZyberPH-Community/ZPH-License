@@ -4,8 +4,9 @@
 
 <br><br><b>END-USER LICENSE AGREEMENT (EULA)</b><br><br>
 By downloading any application from ZyberPH Company PLT (here after referered to as "ZyberPH Company"), 
-installing or using this application or any portion thereof (MaterialVPN), you indicate your acceptance of these terms.
-If you do not accept these terms, do not install or use the software.<br><br>The software (MaterialVPN) and any updates to it are provided "as is" and you bear the risk of using it.
+installing or using this application or any portion thereof, you indicate your acceptance of these terms.
+If you do not accept these terms, do not install or use the software.
+<br><br>Any software and updates to it are provided "as is" and you bear the risk of using it.
 <br><br><b>NO LIABILITY FOR CONSEQUENTIAL DAMAGES</b><br>
 In no event shall ZyberPH Company (its officers, directors, employees or agents) be liable to you for any consequential, special, incidental or indirect damages of any kind arising out of the delivery, performance (including damages for loss of business profits, business interruption, loss of business information and the like) or use of the SOFTWARE.
 The author specifically disclaims all warranties, expressed or implied.
