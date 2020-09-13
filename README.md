@@ -1,6 +1,6 @@
 # ZPH-License
 
-&copy; Copyright 2015 - 2017 | ZyberPH Company - All rights reserved
+&copy; Copyright 2015 - 2020 | ZyberPH Company - All rights reserved
 
 <br><br><b>END-USER LICENSE AGREEMENT (EULA)</b><br><br>
 By downloading any application from ZyberPH Company PLT (here after referered to as "ZyberPH Company"), 
